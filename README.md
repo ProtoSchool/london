@@ -3,12 +3,11 @@
 
 👋 Hello decentralisers of London ✨🎷🐩
 
-Want to know more about the peer-to-peer web? Let's figure out how to upgrade
-the internet together with workshops, talks, and
+Want to know more about the peer-to-peer web? Let meet up! We're going to figure out how to upgrade the internet together. Anyone who wants to talk about decentralising the web, learn, and share ideas is welcome.
 
-We may be decentralised, but we can assemble! LET'S MEET UP!
+We may be decentralised, but we can assemble!
 
-Help us plan our first event: https://github.com/ProtoSchool/london/issues/1
+Help us plan the first event: https://github.com/ProtoSchool/london/issues/1
 
 
 ## Organisers
