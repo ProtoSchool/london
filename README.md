@@ -28,3 +28,7 @@ contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone.
 
 By participating in this project you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+## License
+
+ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](./LICENSE.md) for further detail.
